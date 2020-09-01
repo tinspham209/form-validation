@@ -1,10 +1,11 @@
 import React from "react";
 import "./App.css";
+import Form from "./components/Form";
 
 function App() {
 	return (
 		<div className="app">
-			<h2>hello world</h2>
+			<Form />
 		</div>
 	);
 }

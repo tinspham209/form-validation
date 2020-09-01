@@ -2,19 +2,16 @@
 
 ## Date: 1 - Sep - 2020
 
-### Functions Form Validation
+### Functions
+**Form Validation**
 
 ### Screenshot
 
-<img src=""/>
+<img src="https://i.imgur.com/xpPL8ir.png" alt="form-validation"/>
 
 ### Tech-Stack
 - React Hooks
-
-### Deploy
-
-- [Live Site](link)
-- [Live Server](link)
+- custom hooks
 
 ### Plan Of Action
 - Initial project
@@ -29,21 +26,24 @@
 - Adding the CSS
 - Submit only if zero errors
 
-### After this project
-
-I have improve my knowledge about
-I have understand about
-Next Steps:
-
 ### Directory Structure
 
-```
+```js
 .
 ├── .gitignore
 ├── package.json
 ├── README.md
 ├── public
 └── src
+    ├── components
+        ├── custom-fields
+        ├── Form
+            └── style.css
+        ├── FormSignUp
+        └── FormSuccess
+    ├── custom-hooks
+        └── useForm.js
+    ├── validateInfo.js
     ├── App.js
     ├── App.css
     ├── index.css
