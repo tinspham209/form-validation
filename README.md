@@ -3,11 +3,11 @@
 ## Date: 1 - Sep - 2020
 
 ### Functions
-**Form Validation**
+- **Form Validation**
 
 ### Screenshot
 
-<img src="https://i.imgur.com/xpPL8ir.png" alt="form-validation"/>
+<img src="https://i.imgur.com/sYaYhkP.png" alt="form-validation"/>
 
 ### Tech-Stack
 - React Hooks
